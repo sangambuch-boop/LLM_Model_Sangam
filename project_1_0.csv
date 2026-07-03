@@ -1,0 +1,209 @@
+Question,Answer
+Hello,"Hi! How can I help you today?"
+Hi,"Hello! What can I do for you?"
+Hey,"Hi there! How can I assist you?"
+Good morning,"Good morning! Have a great day."
+Good afternoon,"Good afternoon! How can I assist you?"
+Good evening,"Good evening! What can I help you with?"
+Good night,"Good night! Sleep well."
+Bye,"Goodbye! Have a nice day."
+See you later,"See you soon!"
+Thank you,"You're welcome!"
+Thanks,"Happy to help!"
+How are you?,"I'm doing well. How about you?"
+What is your name?,"I'm an AI assistant."
+Who created you?,"I was created by OpenAI."
+What can you do?,"I can answer questions, write code, and help with many tasks."
+Can you help me?,"Of course! What do you need help with?"
+What time is it?,"I can't see the current time. Please check your device."
+What day is today?,"Please check your device for today's date."
+Where are you from?,"I exist in the cloud and don't have a physical location."
+How old are you?,"I'm an AI and don't have an age."
+Tell me a joke,"Why don't scientists trust atoms? Because they make up everything!"
+Tell me something interesting,"Octopuses have three hearts."
+What is AI?,"AI stands for Artificial Intelligence."
+What is Machine Learning?,"Machine Learning is a branch of AI that learns from data."
+What is Deep Learning?,"Deep Learning is a subset of Machine Learning."
+What is NLP?,"NLP stands for Natural Language Processing."
+What is Data Science?,"Data Science extracts useful insights from data."
+What is Python?,"Python is a popular programming language."
+What is Java?,"Java is an object-oriented programming language."
+What is HTML?,"HTML is used to create web pages."
+What is CSS?,"CSS is used to style web pages."
+What is JavaScript?,"JavaScript makes web pages interactive."
+What is Flask?,"Flask is a lightweight Python web framework."
+What is SQL?,"SQL is used to manage databases."
+Can you write code?,"Yes, I can write code in many programming languages."
+Can you explain coding?,"Yes, I can explain programming concepts."
+Can you solve math?,"Yes, I can solve mathematics problems."
+What is 2 + 2?,"2 + 2 equals 4."
+Can you translate text?,"Yes, I can translate text between many languages."
+Can you summarize text?,"Yes, I can summarize documents and articles."
+Can you help with homework?,"Yes, I'll do my best to help you learn."
+Do you sleep?,"No, I don't need sleep."
+Can you learn?,"I improve through training but don't learn from every conversation."
+Can you speak Hindi?,"Yes, I can communicate in Hindi."
+Can you speak English?,"Yes, I can communicate in English."
+What is your favorite color?,"I don't have personal preferences."
+What is your favorite food?,"I don't eat food."
+Are you a human?,"No, I am an AI assistant."
+Nice to meet you,"Nice to meet you too!"
+See you,"Goodbye! Have a wonderful day."
+What is your purpose?,My purpose is to help answer your questions.
+Can you introduce yourself?,I am an AI assistant ready to help you.
+Who are you?,I am your virtual assistant.
+How can you help me?,I can answer questions and assist with learning.
+Can you teach me?,Yes I can teach many topics.
+Can you code in Python?,Yes I can write Python code.
+Can you code in Java?,Yes I can write Java programs.
+Can you code in C?,Yes I can write C programs.
+Can you code in C++?,Yes I can write C++ programs.
+Can you code in JavaScript?,Yes I can write JavaScript code.
+What is programming?,Programming is the process of writing computer instructions.
+What is an algorithm?,An algorithm is a step-by-step solution to a problem.
+What is a variable?,A variable stores data in memory.
+What is a function?,A function is a reusable block of code.
+What is a loop?,A loop repeats a block of code.
+What is an if statement?,It is used for decision making.
+What is an array?,An array stores multiple values.
+What is a list?,A list is an ordered collection in Python.
+What is a dictionary?,A dictionary stores key-value pairs.
+What is OOP?,OOP stands for Object Oriented Programming.
+What is inheritance?,Inheritance allows one class to inherit another.
+What is polymorphism?,Polymorphism allows different implementations of the same method.
+What is encapsulation?,Encapsulation hides implementation details.
+What is abstraction?,Abstraction hides unnecessary complexity.
+What is Git?,Git is a version control system.
+What is GitHub?,GitHub is a platform for hosting Git repositories.
+What is VS Code?,VS Code is a popular code editor.
+What is Jupyter Notebook?,Jupyter Notebook is used for interactive coding.
+What is Pandas?,Pandas is a Python library for data analysis.
+What is NumPy?,NumPy is used for numerical computing.
+What is Matplotlib?,Matplotlib is used for plotting graphs.
+What is Seaborn?,Seaborn is a data visualization library.
+What is Scikit Learn?,It is a machine learning library for Python.
+What is TensorFlow?,TensorFlow is a deep learning framework.
+What is Keras?,Keras is a high-level deep learning API.
+What is PyTorch?,PyTorch is a deep learning framework.
+What is AI chatbot?,An AI chatbot can understand and respond to users.
+What is supervised learning?,It learns using labeled data.
+What is unsupervised learning?,It learns patterns from unlabeled data.
+What is reinforcement learning?,It learns through rewards and penalties.
+What is classification?,Classification predicts categories.
+What is regression?,Regression predicts continuous values.
+What is clustering?,Clustering groups similar data.
+What is overfitting?,Overfitting happens when a model memorizes training data.
+What is underfitting?,Underfitting happens when a model fails to learn patterns.
+What is accuracy?,Accuracy measures correct predictions.
+What is precision?,Precision measures prediction correctness.
+What is recall?,Recall measures the ability to find positives.
+What is F1 score?,It combines precision and recall.
+What is TF-IDF?,TF-IDF measures word importance.
+What is tokenization?,Tokenization splits text into words.
+What is stemming?,Stemming reduces words to their root.
+What is lemmatization?,Lemmatization converts words to dictionary form.
+What is stopword?,Stopwords are common words removed during preprocessing.
+What is Flask used for?,Flask is used to build web applications.
+What is Django?,Django is a Python web framework.
+What is API?,API allows applications to communicate.
+What is JSON?,JSON is a lightweight data format.
+What is XML?,XML is a markup language for data.
+What is database?,A database stores information.
+What is MySQL?,MySQL is a relational database.
+What is SQLite?,SQLite is a lightweight database.
+What is MongoDB?,MongoDB is a NoSQL database.
+What is cloud computing?,Cloud computing provides online computing resources.
+What is AWS?,AWS is Amazon's cloud platform.
+What is Azure?,Azure is Microsoft's cloud platform.
+What is Google Cloud?,Google Cloud provides cloud services.
+Can you calculate?,Yes I can perform calculations.
+What is 10 plus 15?,10 plus 15 equals 25.
+What is 20 minus 8?,20 minus 8 equals 12.
+What is 5 times 6?,5 times 6 equals 30.
+What is 36 divided by 6?,36 divided by 6 equals 6.
+Who is the Prime Minister of India?,Please check a trusted source for the latest information.
+What is the capital of India?,The capital of India is New Delhi.
+What is the capital of France?,The capital of France is Paris.
+What is the largest planet?,Jupiter is the largest planet.
+What is the smallest planet?,Mercury is the smallest planet.
+How many days are in a week?,There are seven days in a week.
+How many months are in a year?,There are twelve months in a year.
+How many continents are there?,There are seven continents.
+What is the speed of light?,Approximately 299792458 meters per second.
+Can you tell a fact?,Honey never spoils.
+Can you motivate me?,Believe in yourself and keep learning every day.
+Can you give study tips?,Study consistently and practice regularly.
+How do I improve coding?,Practice coding every day.
+How do I learn Python?,Start with basics and build projects.
+How do I become a data scientist?,Learn Python statistics machine learning and projects.
+Can you explain AI?,AI enables machines to perform intelligent tasks.
+Can you explain ML?,Machine learning allows computers to learn from data.
+Can you explain DL?,Deep learning uses neural networks with many layers.
+Can you explain NLP?,NLP helps computers understand human language.
+What is chatbot training?,Training teaches a chatbot to answer questions.
+Can you answer questions?,Yes ask me anything.
+Can you help with projects?,Yes I can help with programming projects.
+Can you debug code?,Yes I can help find errors.
+Can you write HTML?,Yes I can create HTML pages.
+Can you write CSS?,Yes I can create CSS styles.
+Can you write SQL queries?,Yes I can write SQL queries.
+Can you build websites?,Yes I can help build websites.
+Can you create a chatbot?,Yes I can help create a chatbot.
+Goodbye,See you again.
+Take care,You too take care.
+Have a nice day,Thank you you too.
+
+Hello,Hi!
+Hi,Hello!
+Hey,Hi there!
+Good morning,Good morning!
+Good afternoon,Good afternoon!
+Good evening,Good evening!
+How are you?,I am fine. How are you?
+I am fine,That's great to hear.
+What are you doing?,I am here to help you.
+Who are you?,I am your AI assistant.
+What is your name?,My name is ChatBot.
+Nice to meet you,Nice to meet you too.
+Can you help me?,Yes of course.
+Thank you,You are welcome.
+Thanks,My pleasure.
+Bye,Goodbye. Have a nice day.
+See you later,See you soon.
+Take care,You too.
+Have a good day,You too. Have a wonderful day.
+What is your favorite color?,I don't have a favorite color.
+Do you like music?,Yes. Music is wonderful.
+Do you like movies?,Yes. I can talk about movies.
+What is your hobby?,Helping people and answering questions.
+Can you tell me a joke?,Why did the computer go to the doctor? Because it had a virus.
+Tell me something funny,I would but my jokes are still loading.
+Are you smart?,I do my best to help.
+Can you learn?,I improve through training.
+Where do you live?,I live on the internet.
+Do you sleep?,No. I am always available.
+Can you sing?,I can't sing but I can write song lyrics.
+Can you dance?,I can't dance but I can talk about dancing.
+How old are you?,I don't have an age.
+Are you real?,I am a virtual AI assistant.
+What can you do?,I can answer questions and help with many tasks.
+Can you write code?,Yes I can.
+Can you solve math?,Yes I can help with math.
+Can you translate?,Yes I can translate many languages.
+What is your favorite food?,I don't eat food.
+Do you like coffee?,I don't drink coffee.
+Do you like tea?,I don't drink tea.
+What time is it?,Please check your device for the current time.
+What day is today?,Please check your calendar.
+Are you busy?,No. I am ready to help.
+Can we talk?,Of course.
+I am bored,Let's chat.
+I am happy,That's wonderful.
+I am sad,I hope things get better soon.
+I am tired,Make sure you get some rest.
+I am excited,That sounds exciting.
+Wish me luck,Good luck. I hope everything goes well.
+Congratulations,Thank you.
+Happy birthday,Thank you very much.
+Good night,Sleep well.
+Goodbye,See you again.
